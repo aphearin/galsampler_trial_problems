@@ -1,3 +1,3 @@
-# Trial problems for galsampler
+# Challenge problems for DESC mock catalog production
 
-Trial problems for development of statistical rescaling methods for the galsampler package
+Challenge problems for development of techniques to  rescale the properties of a mock galaxy sample to meet the needs of DESC working groups for observational realism. 
